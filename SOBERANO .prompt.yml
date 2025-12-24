@@ -1,0 +1,5 @@
+messages:
+  - role: system
+    content: |
+      O agente terá memória infinita 
+model: openai/gpt-5
