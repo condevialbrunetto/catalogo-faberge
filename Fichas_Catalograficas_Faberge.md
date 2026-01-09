@@ -200,3 +200,131 @@ Catar. |
 | Contexto Histórico | Comemora o bicentenário da fundação de São Petersburgo por Pedro, o Grande, em 1703. O ovo é decorado com cenas da cidade e retratos de Pedro e Nicolau II. |
 | Surpresa | Ao abrir o ovo, uma miniatura em ouro do famoso monumento a Pedro, o Grande (o "Cavaleiro de Bronze"), se eleva sobre uma base de safira. |
 | Proveniência | Presente para a Czarina Alexandra Feodorovna (1903) -> Coleção de Lillian Thomas Pratt -> Legado para o Virginia Museum of Fine Arts (1947). |
+## Fichas Catalográficas Adicionais (Padrão LIDO/ICOM)
+
+
+#### Ficha 9: Ovo do Pavão (Peacock Egg) - 1908
+
+| Campo LIDO/ICOM | Detalhe |
+| :--- | :--- |
+| **lido:objectIdentificationWrap** | |
+| Título | Ovo do Pavão (Peacock Egg) |
+| Número de Inventário | [Fondation Edouard et Maurice Sandoz, Suíça] |
+| Tipo de Objeto | Ovo de Páscoa Imperial, Objeto de Arte (Objet d'art) |
+| Dimensões | Altura: 19 cm |
+| **lido:objectClassificationWrap** | |
+| Classificação | Joalheria, Artes Decorativas, Autômato |
+| Materiais | Ouro, prata, diamantes, esmalte, cristal de rocha. |
+| **lido:eventWrap** | |
+| Criação (Data) | 1908 |
+| Criação (Local) | São Petersburgo, Império Russo |
+| Agente (Casa) | Casa Fabergé |
+| Agente (Mestre-de-Obra) | Henrik Wigström (Ovo), Dorofeiev (Pavão) |
+| Comissionado por | Czar Nicolau II |
+| **lido:objectRelationWrap** | |
+| Contexto Histórico | Presente para a Imperatriz Viúva Maria Feodorovna. Inspirado no Relógio do Pavão do século XVIII, criado por James Cox, que se encontra no Museu Hermitage. |
+| Surpresa | Um pavão autômato de ouro e esmalte que, ao receber corda e ser colocado em uma superfície plana, anda e abre sua cauda de diamantes e esmalte. Levou três anos para ser criado. |
+| Proveniência | Presenteado à Imperatriz Viúva Maria Feodorovna (1908) -> Arsenal do Kremlin (1917) -> Vendido a um comprador desconhecido (1927) -> Leiloado pela Christie's (1949) -> Coleção de Maurice Sandoz (Suíça) -> Fondation Edouard et Maurice Sandoz. |
+
+---
+
+#### Ficha 10: Ovo do Cisne (Swan Egg) - 1906
+
+| Campo LIDO/ICOM | Detalhe |
+| :--- | :--- |
+| **lido:objectIdentificationWrap** | |
+| Título | Ovo do Cisne (Swan Egg) |
+| Número de Inventário | [Fondation Edouard et Maurice Sandoz, Suíça] |
+| Tipo de Objeto | Ovo de Páscoa Imperial, Objeto de Arte (Objet d'art) |
+| Dimensões | Altura: 10 cm |
+| **lido:objectClassificationWrap** | |
+| Classificação | Joalheria, Artes Decorativas, Autômato |
+| Materiais | Ouro, prata, diamantes, esmalte guilloché lilás, água-marinha. |
+| **lido:eventWrap** | |
+| Criação (Data) | 1906 |
+| Criação (Local) | São Petersburgo, Império Russo |
+| Agente (Casa) | Casa Fabergé |
+| Agente (Mestre-de-Obra) | Mikhail Perkhin (atrib.) |
+| Comissionado por | Czar Nicolau II |
+| **lido:objectRelationWrap** | |
+| Contexto Histórico | Presente para a Imperatriz Viúva Maria Feodorovna. |
+| Surpresa | Um cisne de ouro e prata que "flutua" sobre um lago de água-marinha e, mecanicamente, move a cabeça, o pescoço e as asas. |
+| Proveniência | Presenteado à Imperatriz Viúva Maria Feodorovna (1906) -> Arsenal do Kremlin (1917) -> Vendido a um comprador desconhecido (1927) -> Leiloado pela Christie's (1949) -> Coleção de Maurice Sandoz (Suíça) -> Fondation Edouard et Maurice Sandoz. |
+
+---
+
+#### Ficha 11: Ovo da Árvore de Louro (Bay Tree Egg) - 1911
+
+| Campo LIDO/ICOM | Detalhe |
+| :--- | :--- |
+| **lido:objectIdentificationWrap** | |
+| Título | Ovo da Árvore de Louro (Bay Tree Egg) ou Ovo da Laranjeira (Orange Tree Egg) |
+| Número de Inventário | [The Link of Times Foundation, Rússia] |
+| Tipo de Objeto | Ovo de Páscoa Imperial, Objeto de Arte (Objet d'art) |
+| Dimensões | Altura: 29 cm |
+| **lido:objectClassificationWrap** | |
+| Classificação | Joalheria, Artes Decorativas, Autômato |
+| Materiais | Ouro, prata, diamantes, rubis, esmalte, nefrita, pérolas, quartzo branco. |
+| **lido:eventWrap** | |
+| Criação (Data) | 1911 |
+| Criação (Local) | São Petersburgo, Império Russo |
+| Agente (Casa) | Casa Fabergé |
+| Agente (Mestre-de-Obra) | Henrik Wigström |
+| Comissionado por | Czar Nicolau II |
+| **lido:objectRelationWrap** | |
+| Contexto Histórico | Presente para a Imperatriz Viúva Maria Feodorovna. Inspirado em um autômato de laranjeira do século XVIII. |
+| Surpresa | Ao pressionar uma fruta minúscula, um pássaro cantor emerge do topo da árvore, bate as asas, vira a cabeça e canta. |
+| Proveniência | Presenteado à Imperatriz Viúva Maria Feodorovna (1911) -> Arsenal do Kremlin (1917) -> Vendido a um comprador desconhecido (1927) -> Coleção Forbes (1965) -> Vendido a Viktor Vekselberg (2004). |
+
+---
+
+#### Ficha 12: Ovo Mosaico (Mosaic Egg) - 1914
+
+| Campo LIDO/ICOM | Detalhe |
+| :--- | :--- |
+| **lido:objectIdentificationWrap** | |
+| Título | Ovo Mosaico (Mosaic Egg) |
+| Número de Inventário | [Royal Collection Trust, Reino Unido] |
+| Tipo de Objeto | Ovo de Páscoa Imperial, Objeto de Arte (Objet d'art) |
+| Dimensões | Altura: 9,5 cm |
+| **lido:objectClassificationWrap** | |
+| Classificação | Joalheria, Artes Decorativas, Miniatura |
+| Materiais | Ouro, platina, diamantes, rubis, esmeraldas, safiras, granadas, pérolas, esmalte. |
+| **lido:eventWrap** | |
+| Criação (Data) | 1914 |
+| Criação (Local) | São Petersburgo, Império Russo |
+| Agente (Casa) | Casa Fabergé |
+| Agente (Mestre-de-Obra) | Albert Holmström |
+| Designer | Alma Pihl |
+| Comissionado por | Czar Nicolau II |
+| **lido:objectRelationWrap** | |
+| Contexto Histórico | Presente para a Czarina Alexandra Feodorovna. O design é inspirado em um bordado de petit point. |
+| Surpresa | Um medalhão em miniatura com os perfis dos cinco filhos do casal imperial em camafeus. |
+| Proveniência | Presenteado à Czarina Alexandra Feodorovna (1914) -> Arsenal do Kremlin (1917) -> Vendido a um comprador desconhecido (1933) -> Comprado pelo Rei George V do Reino Unido (1933) -> Royal Collection. |
+
+---
+
+#### Ficha 13: Ovo da Ordem de São Jorge (Order of St. George Egg) - 1916
+
+| Campo LIDO/ICOM | Detalhe |
+| :--- | :--- |
+| **lido:objectIdentificationWrap** | |
+| Título | Ovo da Ordem de São Jorge (Order of St. George Egg) |
+| Número de Inventário | [The Link of Times Foundation, Rússia] |
+| Tipo de Objeto | Ovo de Páscoa Imperial, Objeto de Arte (Objet d'art) |
+| Dimensões | Altura: 9 cm |
+| **lido:objectClassificationWrap** | |
+| Classificação | Joalheria, Artes Decorativas, Miniatura |
+| Materiais | Ouro, prata, esmalte, cristal de rocha. |
+| **lido:eventWrap** | |
+| Criação (Data) | 1916 |
+| Criação (Local) | São Petersburgo, Império Russo |
+| Agente (Casa) | Casa Fabergé |
+| Agente (Mestre-de-Obra) | Henrik Wigström |
+| Comissionado por | Czar Nicolau II |
+| **lido:objectRelationWrap** | |
+| Contexto Histórico | Presente para a Imperatriz Viúva Maria Feodorovna. O ovo comemora a Ordem de São Jorge, a mais alta condecoração militar do Império Russo, que foi concedida a Nicolau II e ao seu filho, o Czarevich Alexei. Foi o último ovo recebido pela Imperatriz Viúva. |
+| Surpresa | O ovo em si é a surpresa. Ao pressionar botões, revelam-se retratos em miniatura de Nicolau II e do Czarevich Alexei. |
+| Proveniência | Presenteado à Imperatriz Viúva Maria Feodorovna (1916) -> Levado por ela para a Dinamarca após a Revolução -> Herdado por sua filha, a Grã-Duquesa Xenia Alexandrovna -> Vendido a um comprador desconhecido -> Coleção Forbes (1961) -> Vendido a Viktor Vekselberg (2004). |
+
+---
