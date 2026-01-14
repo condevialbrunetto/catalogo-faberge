@@ -17,6 +17,16 @@ from pathlib import Path
 from faberge_hallmark_analyzer import FabergeHallmarkAnalyzer
 
 
+# Mapeamento de padrões de metal Zolonitsky para tipo de metal
+METAL_TYPE_MAP = {
+    "56": "ouro",
+    "72": "ouro",
+    "84": "prata",
+    "88": "prata",
+    "91": "prata"
+}
+
+
 def load_collection_data(input_file: str) -> list:
     """Carrega dados da coleção do arquivo JSON"""
     try:
@@ -116,20 +126,11 @@ def generate_detailed_report(results: list, analyzer: FabergeHallmarkAnalyzer):
         print("🥇 DISTRIBUIÇÃO DE PADRÕES DE METAL (Método Zolonitsky)")
         print("-" * 80)
         
-        # Mapeamento de padrões para tipos de metal
-        METAL_TYPE_MAP = {
-            "56": "ouro",
-            "72": "ouro",
-            "84": "prata",
-            "88": "prata",
-            "91": "prata"
-        }
-        
         sorted_metals = sorted(summary['metal_standards_distribution'].items(), key=lambda x: x[1], reverse=True)
         for metal, count in sorted_metals:
             percentage = count / summary['total_pieces'] * 100
             bar = "█" * int(percentage / 2)
-            # Determinar tipo de metal usando mapeamento
+            # Determinar tipo de metal usando mapeamento global
             metal_type = METAL_TYPE_MAP.get(metal, "desconhecido")
             print(f"{metal} zolotniki ({metal_type:5s}) {count:3d} ovos {bar} {percentage:5.1f}%")
         print()
