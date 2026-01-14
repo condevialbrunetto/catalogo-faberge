@@ -1,0 +1,110 @@
+[
+  {
+    "piece_name": "First Hen Egg (1885)",
+    "raw_marks_text": "Unmarked",
+    "confidence_score": 0.0,
+    "repeated_marks": false
+  },
+  {
+    "piece_name": "Third Imperial Egg (1887)",
+    "raw_marks_text": "AH",
+    "confidence_score": 0.2,
+    "repeated_marks": false,
+    "workmaster_mark": {
+      "initials": "A.H.",
+      "name": "August Holmström",
+      "period": "until 1903",
+      "workshop_location": "St. Petersburg"
+    }
+  },
+  {
+    "piece_name": "Coronation Egg (1897)",
+    "raw_marks_text": "Fabergé, M. P. in Cyrillic, 56, crossed anchors and scepter",
+    "confidence_score": 0.9,
+    "repeated_marks": false,
+    "metal_standard": {
+      "mark": "56",
+      "purity": 0.583,
+      "description": "583/1000 gold - 14kt"
+    },
+    "assayer_mark": {
+      "type": "crossed_anchors_scepter",
+      "period": "pre-1899",
+      "direction": null,
+      "assayer_monogram": null,
+      "description": "Âncoras cruzadas e cetro - marca de São Petersburgo pré-1899"
+    },
+    "faberge_mark": {
+      "variant": "FABERGE",
+      "script": "Latin",
+      "period": "1882-1917",
+      "description": "Marca Fabergé (variante latina)"
+    },
+    "workmaster_mark": {
+      "initials": "M.P.",
+      "name": "Mikhail Perkhin",
+      "period": "1886-1903",
+      "workshop_location": "St. Petersburg"
+    }
+  },
+  {
+    "piece_name": "Lilies of the Valley Egg (1898)",
+    "raw_marks_text": "Fabergé, M. P. in Cyrillic, 56, kokoshnik, Y. L., initials of Inspector Yakov Lyapunov of St. Petersburg Standard Board",
+    "confidence_score": 0.9,
+    "repeated_marks": false,
+    "metal_standard": {
+      "mark": "56",
+      "purity": 0.583,
+      "description": "583/1000 gold - 14kt"
+    },
+    "assayer_mark": {
+      "type": "kokoshnik",
+      "period": "post-1908",
+      "direction": null,
+      "assayer_monogram": "Y.L. (Yakov Lyapunov)",
+      "description": "Sistema kokoshnik - cabeça feminina com kokoshnik (chapéu tradicional russo)"
+    },
+    "faberge_mark": {
+      "variant": "FABERGE",
+      "script": "Latin",
+      "period": "1882-1917",
+      "description": "Marca Fabergé (variante latina)"
+    },
+    "workmaster_mark": {
+      "initials": "M.P.",
+      "name": "Mikhail Perkhin",
+      "period": "1886-1903",
+      "workshop_location": "St. Petersburg"
+    }
+  },
+  {
+    "piece_name": "Trans-Siberian Railway Egg (1900)",
+    "raw_marks_text": "Fabergé, M. P. in Cyrillic, 88, kokoshnik",
+    "confidence_score": 0.9,
+    "repeated_marks": false,
+    "metal_standard": {
+      "mark": "88",
+      "purity": 0.916,
+      "description": "916/1000 silver - Sterling equivalent"
+    },
+    "assayer_mark": {
+      "type": "kokoshnik",
+      "period": "post-1908",
+      "direction": null,
+      "assayer_monogram": null,
+      "description": "Sistema kokoshnik - cabeça feminina com kokoshnik (chapéu tradicional russo)"
+    },
+    "faberge_mark": {
+      "variant": "FABERGE",
+      "script": "Latin",
+      "period": "1882-1917",
+      "description": "Marca Fabergé (variante latina)"
+    },
+    "workmaster_mark": {
+      "initials": "M.P.",
+      "name": "Mikhail Perkhin",
+      "period": "1886-1903",
+      "workshop_location": "St. Petersburg"
+    }
+  }
+]
