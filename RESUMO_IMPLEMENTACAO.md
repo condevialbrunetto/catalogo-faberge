@@ -33,15 +33,15 @@ Identifica todas as variantes de marcas Fabergé:
 - **K** (diminutivo - apenas inicial)
 - **КФ** (monograma)
 
-### 3. Sistema de Ensaiadores (Pré e Pós-1909) ✅
+### 3. Sistema de Ensaiadores (Pré-1899 e Pós-1908) ✅
 
-O sistema identifica e diferencia os dois períodos principais:
+O sistema identifica e diferencia os períodos principais de marcação russa:
 
-#### Pré-1899 (Alexandre III)
+#### Pré-1899 (Reinado de Alexandre III)
 - **Âncoras cruzadas e cetro**: Marca de São Petersburgo
 - Indica fabricação antes de 1899
 
-#### Pós-1908 (Nicolau II)
+#### Pós-1908 (Reinado de Nicolau II)
 - **Kokoshnik**: Cabeça feminina com chapéu tradicional russo
 - **Direção**: Identifica se voltada para esquerda ou direita
 - **Monograma do ensaiador**: Como Y.L. (Yakov Lyapunov)

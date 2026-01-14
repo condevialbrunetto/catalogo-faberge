@@ -75,7 +75,10 @@ def process_collection(collection_data: list, analyzer: FabergeHallmarkAnalyzer)
         result_dict["year"] = ano
         result_dict["materials"] = ovo.get("materials", "N/A")
         result_dict["dimensions"] = ovo.get("dimensions", "N/A")
-        result_dict["provenance_summary"] = ovo.get("provenance", "N/A")[:200] + "..." if len(ovo.get("provenance", "")) > 200 else ovo.get("provenance", "N/A")
+        
+        # Obter proveniência uma única vez
+        provenance = ovo.get("provenance", "N/A")
+        result_dict["provenance_summary"] = provenance[:200] + "..." if len(provenance) > 200 else provenance
         
         results.append(result_dict)
         
