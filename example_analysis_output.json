@@ -1,0 +1,35 @@
+{
+  "piece_name": "Example: Renaissance Egg",
+  "raw_marks_text": "Fabergé, M.P. in Cyrillic, 56, crossed anchors and scepter",
+  "confidence_score": 0.9,
+  "repeated_marks": false,
+  "metal_standard": {
+    "mark": "56",
+    "purity": 0.583,
+    "description": "583/1000 gold - 14kt"
+  },
+  "assayer_mark": {
+    "type": "crossed_anchors_scepter",
+    "period": "pre-1899",
+    "direction": null,
+    "assayer_monogram": null,
+    "description": "Âncoras cruzadas e cetro - marca de São Petersburgo pré-1899"
+  },
+  "faberge_mark": {
+    "variant": "FABERGE",
+    "script": "Latin",
+    "period": "1882-1917",
+    "description": "Marca Fabergé (variante latina)"
+  },
+  "workmaster_mark": {
+    "initials": "M.P.",
+    "name": "Mikhail Perkhin",
+    "period": "1886-1903",
+    "workshop_location": "St. Petersburg"
+  },
+  "metadata": {
+    "analyzer_version": "1.0",
+    "method": "Zolonitsky",
+    "analysis_type": "single_piece"
+  }
+}

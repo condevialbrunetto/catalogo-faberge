@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Analysis output files (can be regenerated)
+analise_puncoes_exemplo.json
+analise_puncoes_colecao_completa.json
+analise_puncoes_resumo.json
+RELATORIO_ANALISE_PUNCOES.md
+
+# Temporary files
+/tmp/
+*.tmp
+*.log
+
+# N8N specific
+.n8n/
